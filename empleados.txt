@@ -1,0 +1,10 @@
+Este es Víctor, su direccion de coreo es victor@gmail.com. Tiene 24 años y cobra 50000 sueldo
+Este es paco, su direccion de coreo es paco@gmail.com. Tiene 40 años y cobra 45000 sueldo
+Este es Marcelino, su direccion de coreo es marcelino@gmail.com. Tiene 80 años y cobra 56000 sueldo
+Este es Eduardo, su direccion de coreo es eduardo@gmail.com. Tiene 30 años y cobra 34333 sueldo
+Este es Pablo, su direccion de coreo es pablo@gmail.com. Tiene 38 años y cobra 54000 sueldo
+Este es Sara, su direccion de coreo es sara@gmail.com. Tiene 42 años y cobra 34232 sueldo
+Este es Gloria, su direccion de coreo es gloria@gmail.com. Tiene 56 años y cobra 55000 sueldo
+Este es Gerardo, su direccion de coreo es gerardo@gmail.com. Tiene 25 años y cobra 45000 sueldo
+Este es Diego, su direccion de coreo es diego@gmail.com. Tiene 24 años y cobra 30000 sueldo
+Este es Arturo, su direccion de coreo es arturo@gmail.com. Tiene 40 años y cobra 45000 sueldo
